@@ -1,0 +1,12 @@
+.groups{
+    padding:50px;
+}
+
+.groups__item{
+    padding:10px;
+}
+
+.groups__btn{
+    width:50px;
+    cursor: pointer;
+}
